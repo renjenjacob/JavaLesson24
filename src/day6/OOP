@@ -1,0 +1,23 @@
+Object Oriented Programming
+
+Inheritance
+Data Abstraction
+
+public class ClassName{
+attributes
+behaviors
+int var
+String name;
+String category;
+
+public void makeSound(){
+
+}
+
+
+}
+
+A method is a block of code or group of statements grouped together to perform certain actions.
+1. No param no return
+2. No param but returns value
+3. Takes params but does not return
